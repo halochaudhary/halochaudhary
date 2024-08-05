@@ -26,7 +26,7 @@
 - Raspberry Pi, Orange Pi, Jetson Nano
 
 #### Miscellaneous
-- AWS, GCP
+- AWS, GCP, Azure
 
 #### Other Technologies
 - Nginx, OpenCV, YOLO, TensorFlow, Tesseract, PIL, MoviePy
